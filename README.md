@@ -1,2 +1,1 @@
-# msis_vlsi_fabrication_technology
-# msis_vlsi_fabrication_technology
+This is the repo for storing vlsi fabrication technology assignments and notes
